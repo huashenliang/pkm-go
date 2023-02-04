@@ -2,7 +2,7 @@
 
 This repository is the backend for pokemon client: https://github.com/huashenliang/pkm-client
 
-###Before running this app:
+### Before running this app:
 
 ###### Make sure go is installed
 - Install Go -> https://go.dev/doc/install
@@ -15,7 +15,7 @@ For using docker:
 3. Find more info at: https://hub.docker.com/_/mysql
 
 
-###To run this app
+### To run this app
 1. Create `.env` file for the following format:
   ```
   POKEMON_API_KEY='your-api-key'
